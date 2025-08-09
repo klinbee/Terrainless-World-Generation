@@ -1,4 +1,5 @@
 {
+  "": "Removing lava",
   "type": "minecraft:canyon",
   "config": {
     "probability": 0.01,
@@ -13,7 +14,7 @@
     },
     "yScale": 3,
     "lava_level": {
-      "absolute": -64
+      "above_bottom": 0
     },
     "replaceable": "#minecraft:overworld_carver_replaceables",
     "debug_settings": {

@@ -31,24 +31,10 @@
     "water_fog_color": 329011
   },
   "features": [
-    [
-      "minecraft:spring_lava",
-      "minecraft:brown_mushroom_normal",
-      "minecraft:red_mushroom_normal",
-      "minecraft:weeping_vines",
-      "minecraft:crimson_fungi",
-      "minecraft:crimson_forest_vegetation"
-    ],
-    [
-      "terrainless_world:0",
-      "terrainless_world:16",
-      "terrainless_world:32",
-      "terrainless_world:48",
-      "terrainless_world:64",
-      "terrainless_world:80",
-      "terrainless_world:96",
-      "terrainless_world:112"
-    ],
+    [],
+    [],
+    [],
+    [],
     [],
     [],
     [],
@@ -66,7 +52,47 @@
       "minecraft:ore_ancient_debris_large",
       "minecraft:ore_debris_small"
     ],
-    []
+    [],
+    [
+      "minecraft:spring_lava",
+      "minecraft:brown_mushroom_normal",
+      "minecraft:red_mushroom_normal",
+      "minecraft:weeping_vines",
+      "minecraft:crimson_fungi",
+      "minecraft:crimson_forest_vegetation",
+      "terrainless_world:xz0_y4",
+      "terrainless_world:xz0_y12",
+      "terrainless_world:xz0_y20",
+      "terrainless_world:xz0_y28",
+      "terrainless_world:xz0_y36",
+      "terrainless_world:xz0_y44",
+      "terrainless_world:xz0_y52",
+      "terrainless_world:xz0_y60",
+      "terrainless_world:xz0_y68",
+      "terrainless_world:xz0_y76",
+      "terrainless_world:xz0_y84",
+      "terrainless_world:xz0_y92",
+      "terrainless_world:xz0_y100",
+      "terrainless_world:xz0_y108",
+      "terrainless_world:xz0_y116",
+      "terrainless_world:xz0_y124",
+      "terrainless_world:xz8_y4",
+      "terrainless_world:xz8_y12",
+      "terrainless_world:xz8_y20",
+      "terrainless_world:xz8_y28",
+      "terrainless_world:xz8_y36",
+      "terrainless_world:xz8_y44",
+      "terrainless_world:xz8_y52",
+      "terrainless_world:xz8_y60",
+      "terrainless_world:xz8_y68",
+      "terrainless_world:xz8_y76",
+      "terrainless_world:xz8_y84",
+      "terrainless_world:xz8_y92",
+      "terrainless_world:xz8_y100",
+      "terrainless_world:xz8_y108",
+      "terrainless_world:xz8_y116",
+      "terrainless_world:xz8_y124"
+    ]
   ],
   "has_precipitation": false,
   "spawn_costs": {},
@@ -75,30 +101,30 @@
     "axolotls": [],
     "creature": [
       {
-        "type": "minecraft:strider",
         "maxCount": 2,
         "minCount": 1,
+        "type": "minecraft:strider",
         "weight": 60
       }
     ],
     "misc": [],
     "monster": [
       {
-        "type": "minecraft:zombified_piglin",
         "maxCount": 4,
         "minCount": 2,
+        "type": "minecraft:zombified_piglin",
         "weight": 1
       },
       {
-        "type": "minecraft:hoglin",
         "maxCount": 4,
         "minCount": 3,
+        "type": "minecraft:hoglin",
         "weight": 9
       },
       {
-        "type": "minecraft:piglin",
         "maxCount": 4,
         "minCount": 3,
+        "type": "minecraft:piglin",
         "weight": 5
       }
     ],

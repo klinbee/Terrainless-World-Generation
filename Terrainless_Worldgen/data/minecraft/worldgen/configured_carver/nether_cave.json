@@ -1,5 +1,6 @@
 {
-  "type": "minecraft:nether_cave",
+  "": "Removing lava; Uses `minecraft:cave` because `minecraft:nether_cave` has hardcoded lava",
+  "type": "minecraft:cave",
   "config": {
     "probability": 0.2,
     "y": {
@@ -13,7 +14,7 @@
     },
     "yScale": 0.5,
     "lava_level": {
-      "absolute": 0
+      "above_bottom": 0
     },
     "replaceable": "#minecraft:nether_carver_replaceables",
     "horizontal_radius_multiplier": 1,

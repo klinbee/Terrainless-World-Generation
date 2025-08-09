@@ -1,8 +1,8 @@
 {
   "sea_level": 63,
   "disable_mob_generation": false,
-  "aquifers_enabled": true,
-  "ore_veins_enabled": true,
+  "aquifers_enabled": false,
+  "ore_veins_enabled": false,
   "legacy_random_source": false,
   "default_block": {
     "Name": "minecraft:barrier"
@@ -11,8 +11,8 @@
     "Name": "minecraft:air"
   },
   "noise": {
-    "min_y": -64,
-    "height": 384,
+    "min_y": -48,
+    "height": 368,
     "size_horizontal": 1,
     "size_vertical": 2
   },
