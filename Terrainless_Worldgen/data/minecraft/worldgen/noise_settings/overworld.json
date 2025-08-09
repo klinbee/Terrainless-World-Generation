@@ -1,4 +1,5 @@
 {
+  "": "Fluid to air so no water; barrier terrain to remove later w/o clashing w/ structures; -48 to remove hardcoded lava below -54; aquifers/ore_veins disabled because not used",
   "sea_level": 63,
   "disable_mob_generation": false,
   "aquifers_enabled": false,

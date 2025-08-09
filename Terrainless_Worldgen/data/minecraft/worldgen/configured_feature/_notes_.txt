@@ -1,0 +1,3 @@
+Most tree files in here are to remove their dirt placement underneath them (change to air)
+
+Some files are to set the config to "no_op" (none) for terrain features

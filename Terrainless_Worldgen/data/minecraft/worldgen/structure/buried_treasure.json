@@ -1,4 +1,5 @@
 {
+  "": "Buried treasure normally wouldn't be able to gen properly due to barriers",
   "type": "minecraft:jigsaw",
   "biomes": "#minecraft:has_structure/buried_treasure",
   "step": "underground_structures",

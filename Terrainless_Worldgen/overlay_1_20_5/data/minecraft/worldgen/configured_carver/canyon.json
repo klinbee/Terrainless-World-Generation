@@ -1,4 +1,5 @@
 {
+  "": "Removing lava",
   "type": "minecraft:canyon",
   "config": {
     "probability": 0.01,

@@ -1,0 +1,3 @@
+Most changes are to allow barrier as the placement rule
+
+Unfortunately some are hardcoded/more complex, so they can't gen...

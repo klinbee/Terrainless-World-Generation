@@ -1,4 +1,5 @@
 {
+  "": "Used in `world_replacer` to replace the dummy world blocks",
   "replace": true,
   "values": ["minecraft:barrier", "minecraft:end_stone"]
 }

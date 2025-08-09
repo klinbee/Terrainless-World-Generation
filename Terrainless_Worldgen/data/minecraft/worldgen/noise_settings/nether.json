@@ -1,4 +1,5 @@
 {
+  "": "Fluid to air so no lava; barrier terrain to remove later w/o clashing w/ structures",
   "sea_level": 32,
   "disable_mob_generation": false,
   "aquifers_enabled": false,

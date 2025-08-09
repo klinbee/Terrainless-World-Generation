@@ -1,5 +1,5 @@
 {
-  "": "Used to remove terrain blocks, which are `minecraft:barriers` in the Nether and Overworld and `minecraft:end_stone` in the End",
+  "": "Used to remove terrain blocks, which are `minecraft:barriers` in the Nether and Overworld and `minecraft:end_stone` in the End; See `noise_settings` for more info",
   "type": "minecraft:disk",
   "config": {
     "state_provider": {
